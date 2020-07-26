@@ -27,3 +27,5 @@ Em seguida,
 ```bash
 ./coin
 ```
+### Autores
+Anderson de Alencar e Guilherme Freire
